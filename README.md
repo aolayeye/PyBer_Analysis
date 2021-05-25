@@ -32,7 +32,7 @@ After creating initial results, our analysis moves to a second phase where we cr
 
 3. Our Summary Statistics for Number of Rides by City Type show that If we compare the average number of rides between each city type, we'll notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively.
 4. Our Box and Whisker plot analysis reveals that There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
-5. From our combined Ride fare data box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. Why do you think there is such a big difference? By looking at the number of riders for each city, can you get a sense of the overall revenue?
+5. From our combined Ride fare data box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. Why do you think there is such a big difference? The number of drivers in rural cities helps explain tis huge difference in fares, there are less number of drivers compared to riders. Rural cities have a mean of 4 drivers and mean ride count of 7 {ratio 1:2} Urban cities have mean 24 ride count and mean 36 {ratio 2:3}; Suburban mean driver 14 and mean ride count 17 {ratio 4:5} Looking at the number of riders, we can suggest that Urban cities have the highest revenue.
 6. From our combined Driver Count data box-and-whisker plots The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. By looking at the driver count data and fare data, can you get a sense of the overall revenue?
 
 
@@ -73,7 +73,7 @@ Line Chart Showing Total Fares by City Type
 
 
 
-
+## Summary
 
 
 
