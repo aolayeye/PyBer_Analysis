@@ -53,6 +53,11 @@ Ride-Sharing Summary DataFrame
 ![PyBer_summary_DataFrame](https://user-images.githubusercontent.com/67847583/119545944-fa5b6f00-bd58-11eb-9b82-702276085bbb.png)
 
 
+Using the object-oriented interface method and the df.plot() method, as well as the Matplotlib "fivethirtyeight" graph style, we graphed the resampled DataFrame from the previous result to obtain to fares for the weekly bins in the following graph.
+
+Line Chart Showing Total Fares by City Type
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/67847583/119551188-f92d4080-bd5e-11eb-976c-3b56ecac64a5.png)
 
 
 
