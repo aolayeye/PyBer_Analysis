@@ -38,7 +38,6 @@ After creating initial results, our analysis moves to a second phase where we cr
 
 ![Fig2](https://user-images.githubusercontent.com/67847583/119574617-5df69400-bd7b-11eb-9666-d2bf9a4ea832.png)
 ![Fig3](https://user-images.githubusercontent.com/67847583/119574780-98603100-bd7b-11eb-896e-a26193255b1e.png)
-
 ![Fig4](https://user-images.githubusercontent.com/67847583/119574892-c34a8500-bd7b-11eb-9ec0-bad9f31f6d78.png)
 
 
