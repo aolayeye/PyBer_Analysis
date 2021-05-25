@@ -69,7 +69,8 @@ Using the object-oriented interface method and the df.plot() method, as well as 
 
 Line Chart Showing Total Fares by City Type
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/67847583/119551868-b6b83380-bd5f-11eb-99bb-102ce2743fd3.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/67847583/119575348-88951c80-bd7c-11eb-95e4-2f6988bf0443.png)
+
 
 
 
