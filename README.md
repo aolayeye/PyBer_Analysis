@@ -24,13 +24,10 @@ After creating initial results, our analysis moves to a second phase where we cr
 
 ### Intial Findings
 1. A visual inspection of our bubble chart reveal that urban cities has the highest driver count and total number of rides. Conversely, rural cities with the lowest number of rides and smallest driver count has the highest fares.
-
-    Bubble Chart showing the relationship between total number of rides by city type and average fare.
     
     Note: Circle size correlates with driver count per city
 
 ![Fig1](https://user-images.githubusercontent.com/67847583/119573695-3f43cd80-bd7a-11eb-9669-27d007118de9.png)
-
 
 
 3. Our Summary Statistics for Number of Rides by City Type show that If we compare the average number of rides between each city type, we'll notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively.
@@ -40,7 +37,6 @@ After creating initial results, our analysis moves to a second phase where we cr
 
 
 ![Fig2](https://user-images.githubusercontent.com/67847583/119574617-5df69400-bd7b-11eb-9666-d2bf9a4ea832.png)
-
 ![Fig3](https://user-images.githubusercontent.com/67847583/119574780-98603100-bd7b-11eb-896e-a26193255b1e.png)
 
 ![Fig4](https://user-images.githubusercontent.com/67847583/119574892-c34a8500-bd7b-11eb-9ec0-bad9f31f6d78.png)
