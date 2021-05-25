@@ -46,8 +46,11 @@ After creating initial results, our analysis moves to a second phase where we cr
     - graph the resampled DataFrame from  the previous Step using the object-oriented interface method and the df.plot() method, as well as the Matplotlib "fivethirtyeight" graph style. Annotate the y-axis label and the title, then use the appropriate code to save the figure
 
 ## Results
+Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, we get the total number of rides, total number of drivers, and the total fares for each city type. We Then, calculated the average fare per ride and average fare per driver for each city type. Finally, add this data to a new DataFrame, and then formatted the columns to obtain the following summary result.
 
+Ride-Sharing Summary DataFrame
 
+![PyBer_summary_DataFrame](https://user-images.githubusercontent.com/67847583/119545944-fa5b6f00-bd58-11eb-9b82-702276085bbb.png)
 
 
 
