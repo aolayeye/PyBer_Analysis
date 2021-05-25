@@ -38,6 +38,20 @@ After creating initial results, our analysis moves to a second phase where we cr
 5. From our combined Ride fare data box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. Why do you think there is such a big difference? By looking at the number of riders for each city, can you get a sense of the overall revenue?
 6. From our combined Driver Count data box-and-whisker plots The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. By looking at the driver count data and fare data, can you get a sense of the overall revenue?
 
+
+Ride Count Data (2019)
+
+![Fig2](https://user-images.githubusercontent.com/67847583/119574617-5df69400-bd7b-11eb-9666-d2bf9a4ea832.png)
+
+Ride Fare Data (2019)
+
+![Fig3](https://user-images.githubusercontent.com/67847583/119574780-98603100-bd7b-11eb-896e-a26193255b1e.png)
+
+Ride Fare Data (2019)
+
+![Fig4](https://user-images.githubusercontent.com/67847583/119574892-c34a8500-bd7b-11eb-9ec0-bad9f31f6d78.png)
+
+
 ## Control Flow of the New Analysis
 1. Create a Ride Sharing Summary DataFrame by city type
     - use the groupby() function to create a Series of data that has the type of city as the index, then apply the count() method to the "ride_id" column.
