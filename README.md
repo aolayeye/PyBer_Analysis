@@ -1,6 +1,7 @@
 # PyBer_Analysis
 ## Overview
 This analysis seeks to the data of PyBer, a Python-based ride sharing app company. Our goal is to perform exploratory data analysis on large dataset to determine the relationship between the type of ciity and the number of drivers and riders as well as the percentage of total fares, riders and drivers by type of city. To achieve this goal, We would create several visualizations, write python scripts using pandas library and matplotlib to create a variety of charts in the end, we hope to use the analysis and visulaizations we produce to improve access to ride sharing services and determine affordability for underserved neighbourhoods.
+
 After creating initial results, our analysis moves to a second phase where we create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we would create a multiple-line graph that shows the total weekly fares for each city type. Finally, we would provide a summary of how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ### Control Flow
