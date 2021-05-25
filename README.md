@@ -45,6 +45,8 @@ After creating initial results, our analysis moves to a second phase where we cr
     - reset the index of the DataFrame from the previous step to a datetime data type and create a new DataFrame by applying the resample() function to the modified DataFrame. Resample the data in weekly bins, then apply the sum() method to get the total fares for each week.
     - graph the resampled DataFrame from  the previous Step using the object-oriented interface method and the df.plot() method, as well as the Matplotlib "fivethirtyeight" graph style. Annotate the y-axis label and the title, then use the appropriate code to save the figure
 
+## Results
+
 
 
 
