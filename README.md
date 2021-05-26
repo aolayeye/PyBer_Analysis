@@ -83,6 +83,9 @@ One area to pay attention to is the rural cities where the ratio of drivers to r
 - is internet connectivity an impediment to PyBer reach in rural cities
 - if PyBers mode of payment is credit card, does the rural population have credits cards or do they rely on cash to carry out their daily transactions.
 
+
+Another recommendation is to find the sweet spot between average fare per ride (cost to the rider) and average fare per driver (revenue to the driver). A way to achieve the optimal solution to the optimization problem is maintain a minimum threshold of driver count across all city types while increasing the numbers of riders. Incresing number of riders would reduce mean fares and lead to a multiplier effect on ride count, similarlymaintaining a driver count threshold across different city types could result in fare per driver upper and lower boundary that are not too far apart.
+
 Answers to questions like these can help illuminate the disparities bewteen the fares and driver count in rural and urban cities.
 
 
