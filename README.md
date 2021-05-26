@@ -75,7 +75,7 @@ Line Chart Showing Total Fares by City Type
 
 ## Summary
 
-
+One area to pay attention to is the rural cities where the ratio of drivers to riders is 1 to 2. PyBer needs to further investigate
 
 
 
