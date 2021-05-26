@@ -75,7 +75,7 @@ Line Chart Showing Total Fares by City Type
 
 ## Summary
 
-One area to pay attention to is the rural cities where the ratio of drivers to riders is 1 to 2. PyBer needs to further investigate why there is a low driver count compared to number of rides. Research questions that could be asked include:
+One area to pay attention to is the rural cities where the mean ratio of drivers to riders is 1 to 2. PyBer needs to further investigate why there is a low driver count compared to number of rides. Research questions that could be asked include:
 - are rural distances typically longer in rural cities than in urban cities
 - are all rural cities accurately captured on maps
 - what is the actual market demand for PyBer in rural cities
