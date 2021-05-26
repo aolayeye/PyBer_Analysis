@@ -81,6 +81,7 @@ One area to pay attention to is the rural cities where the ratio of drivers to r
 - what is the actual market demand for PyBer in rural cities
 - are there really enough people requesting rides in rural cities
 - is internet connectivity an impediment to PyBer reach in rural cities
+
 Answers to questions like these can help illuminate the disparities bewteen the fares and driver count in rural and urban cities.
 
 
