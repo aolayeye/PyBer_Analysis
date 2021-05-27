@@ -91,7 +91,7 @@ Line Chart Showing Total Fares by City Type
    - can a subscription model be introduced for riders in rural cities where there is flat fee structure for a specified period
    - can drivers be incentivized to drive in rural cities
 
-Answers to questions like these can help illuminate the disparities between the fares and driver count in rural and urban cities and provide concrete steps to making rides affordable and accessible across all city types.
+ Answers to questions like these can help illuminate the disparities between the fares and driver count in rural and urban cities and provide concrete steps to making rides  affordable and accessible across all city types.
 
 
 
