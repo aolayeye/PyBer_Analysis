@@ -1,8 +1,8 @@
 # PyBer_Analysis
 ## Overview
-This analysis seeks to the data of PyBer, a Python-based ride sharing app company. Our goal is to perform exploratory data analysis on large dataset to determine the relationship between the type of city and the number of drivers and riders as well as the percentage of total fares, riders and drivers by type of city. To achieve this goal, We would create several visualizations, write python scripts using pandas library and matplotlib to create a variety of charts in the end, we hope to use the analysis and visulaizations we produce to improve access to ride sharing services and determine affordability for underserved neighbourhoods.
+This analysis seeks to provide insights into ride accessibility and affordability for PyBer, a Python-based ride-sharing app company. Our goal is to perform exploratory data analysis on a large dataset to determine the relationship between the type of city, the number of drivers and riders, and the percentage of total fares, riders, and drivers by type of city. To achieve this goal, We would create several visualizations, write python scripts using pandas library and Matplotlib to create various charts. In the end, we hope to use the analysis and visualizations we produce to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
-After creating initial results, our analysis moves to a second phase where we create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we would create a multiple-line graph that shows the total weekly fares for each city type. Finally, we would provide a summary of how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+After creating initial results, our analysis moves to a second phase where we make a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we would create a multiple-line graph that shows the total weekly fares for each city type. Finally, we would summarize how the data differs by city type and how decision-makers can use those differences at PyBer to answer questions around ride accessibility and affordability.
 
 ### Control Flow
 1. Import your data into a Pandas DataFrame.
@@ -23,7 +23,7 @@ After creating initial results, our analysis moves to a second phase where we cr
     - The percent of total drivers.
 
 ### Intial Findings
-1. A visual inspection of our bubble chart reveal that urban cities has the highest driver count and total number of rides. Conversely, rural cities with the lowest number of rides and smallest driver count has the highest fares.
+1. A visual inspection of our bubble chart reveal that urban cities have the highest driver count and total number of rides. Conversely, rural cities with the lowest number of rides and smallest driver count have the highest fares.
     
     Note: Circle size correlates with driver count per city
 
@@ -84,13 +84,13 @@ One area to pay attention to is the rural cities where the mean ratio of drivers
 - if PyBers mode of payment is credit card, does the rural population have credits cards or do they rely on cash to carry out their daily transactions.
 
 
-Another recommendation is to find the sweet spot between average fare per ride (cost to the rider) and average fare per driver (revenue to the driver). A way to achieve the optimal solution to the optimization problem is maintain a minimum threshold of driver count across all city types while increasing the numbers of riders. Incresing number of riders would reduce mean fares and lead to a multiplier effect on ride count. Similarly, maintaining a driver count threshold across different city types could result in fare per driver upper and lower boundaries that are not too far apart.
+Another recommendation is to find the sweet spot between average fare per ride (cost to the rider) and average fare per driver (revenue to the driver). A way to achieve the optimal solution to the optimization problem is to maintain a minimum threshold of driver count across all city types while increasing the number of riders. An increasing number of riders would reduce mean fares and lead to a multiplier effect on ride count. Similarly, maintaining a driver count threshold across different city types could result in fare per driver upper and lower boundaries that are not too far apart.
 
 
-While Average fare per driver is highest for rural cities with a mean ride count of 7, that amount pales in comparison to the $16 and average round count of 24 in urban cities. A potential research question for PyBer could be:
-- can drivers be incentivised to drive in rural cities
+While the Average fare per driver is highest for rural cities with a mean ride count of 7, that amount pales compared to the $16 and average round count of 24 in urban cities. A potential research question for PyBer could be:
+- can drivers be incentivized to drive in rural cities
 
-Answers to questions like these can help illuminate the disparities bewteen the fares and driver count in rural and urban cities, andprovide concrete steps to making rides affordable and accessible across all city types
+Answers to questions like these can help illuminate the disparities between the fares and driver count in rural and urban cities and provide concrete steps to making rides affordable and accessible across all city types.
 
 
 
