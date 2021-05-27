@@ -87,7 +87,8 @@ One area to pay attention to is the rural cities where the mean ratio of drivers
 Another recommendation is to find the sweet spot between average fare per ride (cost to the rider) and average fare per driver (revenue to the driver). A way to achieve the optimal solution to the optimization problem is to maintain a minimum threshold of driver count across all city types while increasing the number of riders. An increasing number of riders would reduce mean fares and lead to a multiplier effect on ride count. Similarly, maintaining a driver count threshold across different city types could result in fare per driver upper and lower boundaries that are not too far apart.
 
 
-While the Average fare per driver is highest for rural cities with a mean ride count of 7, that amount pales compared to the $16 and average round count of 24 in urban cities. A potential research question for PyBer could be:
+While the Average fare per driver is highest for rural cities ($55.49) with a mean ride count of 7, that amount pales compared to the $16 and average round count of 24 in urban cities. A potential research question for PyBer could be:
+- can a subscription model be introduced for riders in rural cities where there is flat fee structure for a specified period
 - can drivers be incentivized to drive in rural cities
 
 Answers to questions like these can help illuminate the disparities between the fares and driver count in rural and urban cities and provide concrete steps to making rides affordable and accessible across all city types.
